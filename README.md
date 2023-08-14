@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/priyanka-bandaru-328482172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/priyanka-bandaru-328482172" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22390374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22390374" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@priyanka_bandar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priyanka_bandar1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bapriya_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bapriya_21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
